@@ -6,44 +6,77 @@
 
 ---
 
+## Conceito
+
+Confeitaria artesanal, delicada e feminina. Transmite um ar caseiro, acolhedor e romântico. Foco em bolos personalizados e doces para ocasiões especiais. Posicionamento: confeitaria artesanal com identidade visual delicada, afetiva e elegante — carinho, exclusividade e produtos feitos à mão.
+
+---
+
 ## Cores
 
-- **Fundo principal:**
+- **Fundo principal:** Branco / creme
+- **Cor de destaque / CTA:** Rosa antigo / rosé (cor principal)
+- **Texto principal:** Marrom madeira (base do pedestal)
+- **Fundo alternativo / cards:** Rosa claro (apoio)
+- **Cor proibida:** —
+- **Cor adicional:** Verde oliva (folhagens)
 
-- **Cor de destaque / CTA:**
-
-- **Texto principal:**
-
-- **Fundo alternativo / cards:**
-
-- **Cor proibida:**
+Tons suaves e pouco saturados, aparência aquarelada.
 
 ---
 
 ## Tipografia
 
-- **Títulos e destaques:**
-
-- **Corpo, subtítulos e botões:**
-
-- **Peso do título:**
+- **Títulos e destaques:** Caligráfica/script, elegante e fluida (logotipo)
+- **Corpo, subtítulos e botões:** Sans-serif fina, espaçada entre letras (ex.: "DOCES" no logo)
+- **Peso do título:** Leve/fino, sofisticado
 
 ---
 
 ## Estilo geral
 
+Aquarela · Minimalista · Delicado · Artesanal · Romântico · Premium sem parecer luxuoso.
+
+Elemento principal recorrente: ilustração em aquarela de um bolo de dois andares sobre um pedestal de madeira, com flores rosas e folhas verdes decorando, manchas de aquarela ao fundo.
+
 ---
 
 ## Elementos-chave
 
-- Bordas:
-- Border-radius dos cards:
-- Botões:
-- Sombras:
+- Bordas: suaves, sem contornos duros
+- Border-radius dos cards: arredondado, delicado
+- Botões: leves, tom rosé
+- Sombras: suaves, discretas
 
 ---
 
 ## O que NUNCA fazer
+
+- Nada que pareça "luxuoso" pesado ou corporativo — o tom é afetivo/artesanal, não premium ostentoso
+- Evitar cores muito saturadas ou contrastes duros
+
+---
+
+## Embalagens
+
+- Adesivos circulares com fundo branco, logo centralizada, uso predominante do rosa
+- Informações de contato discretas abaixo da marca
+
+## Fotografia
+
+- Fundo desfocado, luz natural, destaque total para os produtos
+- Pouca edição pesada, cores fiéis aos doces
+
+## Redes sociais
+
+- Feed com predominância de: bolos personalizados, bentôs, bolos vintage, doces artesanais, embalagens personalizadas
+- Muito branco, rosa e tons pastel
+
+## Público-alvo
+
+- Mulheres de aproximadamente 18 a 45 anos
+- Festas de aniversário, mesversários, datas comemorativas, presentes
+- Clientes que valorizam estética e personalização
 
 ---
 
